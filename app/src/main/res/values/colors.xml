@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D50000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bg">#D50000</color>
+    <color name="button_bg">#ffffff</color>
+    <color name="button">#D50000</color>
+    <color name="bgcolor">#03A9F4</color>
+    <color name="bkg">#000000</color>
+    <color name="logo">#D50000</color>
+    <color name="text">#ffff</color>
+    <color name="duskYellow">#FF8A80</color>
+    <color name="lightGrey">#D50000</color>
+</resources>
